@@ -57,7 +57,8 @@ If these commands print out a version number in the terminal, you are good to go
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-[Click here](https://marsiya-fcc-timestamp.glitch.me/) to view project on [Glitch](https://glitch.com/)
+[Click here](https://marsiya-fcc-timestamp.glitch.me/) to view live demo on [Glitch](https://glitch.com/)
+
 1. The API endpoint is:
   ```sh
    GET https://marsiya-fcc-timestamp.glitch.me/API/timestamp/:date_string?
