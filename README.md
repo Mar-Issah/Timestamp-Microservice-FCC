@@ -6,12 +6,11 @@ A simple web app to display my skills in HTML5, CSS3 and JavaScript (Node.js wit
 
 ![Timestamp Microservice](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617745655/My%20Website%20Projects/timestamp_microservice_zyakm6.png)
 
-This is a Node. js (with Express. js) little application which is part of the FCC Back End Certification. It takes a date string and gives you back a JSON with Unix value which is the time in milliseconds and UTC format for the given date.
+This is a Node. js (with Express. js) little application which is part of the [FreeCodeCamp](https://www.freecodecamp.org/) Back End Certification. It takes a date string and gives you back a JSON with Unix value which is the time in milliseconds and UTC format for the given date.
 
 <br>
 
 ### Built With / Requirements :construction_worker:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -24,8 +23,7 @@ This is a Node. js (with Express. js) little application which is part of the FC
 <!-- GETTING STARTED -->
 
 ## Getting Started
-This is JavaScript Web application which runs in the browser. You need a V8 engine to run JavaScript program. For the purpose of this project I used Google Chrome browser.
-
+Using it on your local machine
 ### Prerequisites
 You need to have Node, yarn and npm installed on your machine. To check if they are installed, open up a terminal window and type the following:
  ```sh
@@ -42,12 +40,11 @@ If these commands print out a version number in the terminal, you are good to go
    ```sh
    git clone https://github.com/Mar-Issah/Timestamp-Microservice-FCC.git
    ```
-2. Download and install [Visual Studio Code](https://code.visualstudio.com/)
-3. Change directory into the new folder and type the following, this installs the required dependencies
+2. Change directory into the new folder and type the following, this installs the required dependencies
     ```sh
     npm install
    ```
-4. To run the React project.
+3. To run the React project.
    ```sh
    npm start
    ```
@@ -130,5 +127,3 @@ Project Link: [https://github.com/Mar-Issah/Timestamp-Microservice-FCC.git](http
 Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/)
 
 ### More on [Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice) on FreeCodeCamp
-
-
