@@ -1,6 +1,6 @@
 # Timestamp Microservice
 
-A simple web app to display my skills in HTML5, CSS3 and JavaScript (Node.js with Express)
+A simple web app to display my skills in HTML5, CSS3 and JavaScript (Node.js with Express).
 
 ## About The Project
 
