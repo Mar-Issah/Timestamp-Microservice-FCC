@@ -36,11 +36,11 @@ If these commands print out a version number in the terminal, you are good to go
 
 ### Installation
 
-1. Clone the repo on your local machine
+1. Clone the repo on your local machine.
    ```sh
    git clone https://github.com/Mar-Issah/Timestamp-Microservice-FCC.git
    ```
-2. Change directory into the new folder and type the following, this installs the required dependencies
+2. Change directory into the new folder and type the following, this installs the required dependencies.
     ```sh
     npm install
    ```
@@ -63,7 +63,7 @@ If these commands print out a version number in the terminal, you are good to go
 
 2. A date string is valid if can be successfully parsed by new Date(date_string) (JS). In our test we will use date strings compliant with ISO-8601 (e.g. "2016-11-20") because this will ensure an UTC timestamp.
 
-3. If the date string is empty it will use the current date
+3. If the date string is empty it will use the current date.
 
 4. If the date string is valid the API returns a JSON object with the following structure:
   ```sh
